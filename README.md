@@ -1,4 +1,3 @@
-# anthem-workshop-m2
 # 🎓 Git & GitHub Practice Workshop
 
 ### National Anthem Project — Workshop Edition
