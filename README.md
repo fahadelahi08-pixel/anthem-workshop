@@ -38,10 +38,11 @@ The National Anthem Project is a simple Flask-based web application that display
 ## 📂 Project Structure
 
 ```text
-anthem-workshop-m2/
+anthem-workshop/
 │
 ├── README.md
 ├── anthem.txt
+├── developer.txt
 ├── app.py
 │
 └── templates/
@@ -53,13 +54,13 @@ anthem-workshop-m2/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/suhas322/anthem-workshop-m2.git
+git clone https://github.com/fahadelahi08-pixel/anthem-workshop.git
 ```
 
 ### 2. Navigate to the Project
 
 ```bash
-cd anthem-workshop-m2
+cd anthem-workshop
 ```
 
 ### 3. Create a Python Virtual Environment
@@ -154,7 +155,7 @@ git merge feature/new-feature
 |---|---|---|
 | Satish | Team Lead | Repository management, merging and conflict resolution |
 | Rajesh | Developer | Application development and feature branches |
-| Ramesh | Tester | Testing and improving project content |
+| Fahad | Tester | Testing and improving project content |
 
 *Note: These roles were simulated using separate Git working directories on one Mac.*
 
@@ -162,8 +163,8 @@ git merge feature/new-feature
 
 During the workshop, two branches modified the same HTML heading with different titles.
 
-- `title-english`
-- `title-bilingual`
+- `conflict-english`
+- `conflict-fahad`
 
 A merge conflict was created intentionally and resolved manually by choosing the final heading.
 
@@ -180,16 +181,17 @@ The changes were committed and pushed successfully to the main branch.
 
 ## 🌐 GitHub Repository
 
-**Repository:** [anthem-workshop-m2](https://github.com/suhas322/anthem-workshop-m2)
+**Repository:** [anthem-workshop](https://github.com/fahadelahi08-pixel/anthem-workshop)
 
-**GitHub Username:** [@suhas322](https://github.com/suhas322)
+**GitHub Username:** [@fahadelahi08-pixel](https://github.com/fahadelahi08-pixel)
 
 ## 👨‍🎓 Student Information
 
 **Workshop:** Git & GitHub Practice Workshop  
 **Project:** National Anthem Project  
 **Platform:** MacBook Air M2  
-**Repository Owner:** suhas322
+**Repository Owner:** Fahad  
+**GitHub Username:** fahadelahi08-pixel
 
 ---
 
